@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 
 # Paths
 model_path = r"ASD12_XGBoost.pkl"
-template_path = r"C:\ASD12\The data frame file to be analyzed.xlsx"
+template_path = r"The data frame file to be analyzed.xlsx"
 metrics_path = r"C:\ASD12\metrics.txt"
 
 # Save Metrics

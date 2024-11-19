@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from sklearn.model_selection import train_test_split
 
 # Paths
-model_path = r"C:\ASD12\ASD12_XGBoost.pkl"
+model_path = r"ASD12_XGBoost.pkl"
 template_path = r"C:\ASD12\The data frame file to be analyzed.xlsx"
 metrics_path = r"C:\ASD12\metrics.txt"
 

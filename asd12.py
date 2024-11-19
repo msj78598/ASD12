@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 # Paths
 model_path = r"ASD12_XGBoost.pkl"
 template_path = r"The data frame file to be analyzed.xlsx"
-metrics_path = r"C:\ASD12\metrics.txt"
+metrics_path = r"metrics.txt"
 
 # Save Metrics
 def save_metrics_to_file(accuracy, precision, recall, f1):
